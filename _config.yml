@@ -1,11 +1,11 @@
 # Basic
 title: 佳雨窝
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到我的博客~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: jiayuw.top
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 交友/投资/学习
 url: "http://jiayuw.top"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    QQ: 359648330 
+    github: jiayuwo
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 359648330@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -28,7 +28,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+    id:    
     host: auto  
 
 
@@ -57,7 +57,8 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于我, description: about, url: '/about'}
+    - {title: 网址导航, description: wang, url: '/wang'}
     
 
 # Pagination
